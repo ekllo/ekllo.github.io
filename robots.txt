@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ekllo.github.io/zFy/sitemap.zFy.gz
